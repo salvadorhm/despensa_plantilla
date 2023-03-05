@@ -72,6 +72,14 @@ Agregar las referencias bibliográficas utilizadas
 
 ## 8. Notas:
 
+0. Realizar un fork al repositorio, crear un nuevo repositorio con los integrantes del equipo.
 1. Las funciones deben ser asignados entre los integrantes del equipo.
 2. Todo el código debe estar documentado para ser considerado.
 3. Las evaluaciones las realizara un solo integrante del equipo seleccionado al azar.
+4. La útlima función del sistema será propuesta y desarrollada por el equipo por ejemplo:
+* La tienda más cercana a mi ubicación.
+* La tienda en donde esta más baráto un producto.
+* La tienda en donde está más baráta la despensa completa.
+* Analisis de Series de tiempo.
+* Predicción del costo de un producto determinado.
+* Etc.
