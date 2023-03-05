@@ -60,9 +60,9 @@ Describir las herramientas de desarrollo utilizadas para el desarrollo del proye
 |34|Llamar al método borrarCompra()|ToDo|NA|NA|
 |35|Llamar al método valorMinimoProducto()|ToDo|NA|NA|
 |35|Llamar al método valorMaximoProducto()|ToDo|NA|NA|
-|36|FUNCIÓN DIFERENCIADORA|ToDo|NA|Na|
+|36|FUNCIÓN INNOVADORA PROPUESTA POR EL EQUIPO|ToDo|NA|Na|
 
-## 6. Concluiones:
+## 6. Conclusiones:
 
 Redactar las conclusiones del proyecto
 
