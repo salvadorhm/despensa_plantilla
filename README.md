@@ -1,5 +1,9 @@
 # Proyecto para llevar el control de la compra de despensa y variacion de precios.
 
+## 0. Versión
+
+Plantalla inicial versión 0.1.05032023
+
 ## 1. Introducción
 
 Redactar una introducción al proyecto.
@@ -56,6 +60,7 @@ Describir las herramientas de desarrollo utilizadas para el desarrollo del proye
 |34|Llamar al método borrarCompra()|ToDo|NA|NA|
 |35|Llamar al método valorMinimoProducto()|ToDo|NA|NA|
 |35|Llamar al método valorMaximoProducto()|ToDo|NA|NA|
+|36|FUNCIÓN DIFERENCIADORA|ToDo|NA|Na|
 
 ## 6. Concluiones:
 
