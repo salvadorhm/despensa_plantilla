@@ -1,8 +1,8 @@
 # Proyecto para llevar el control de la compra de despensa y variación de precios.
 
-## 0. Versión
+## 0. Versión de la plantilla
 
-Plantalla inicial versión 0.5.06032023
+Plantilla inicial versión 0.06032023.7
 
 ## 1. Introducción
 
@@ -92,13 +92,18 @@ Agregar las referencias bibliográficas utilizadas
 * La tienda en donde está más barata la despensa completa.
 * Análisis de Series de tiempo.
 * Predicción del costo de un producto determinado.
-* Etc.
 5. El responsable de cada actividad tiene las siguientes tareas:
 * Programar el algoritmo correspondiente.
 * Documentar su código.
 * Validar que su código funcione correctamente.
+* Subir su código al repositorio grupal.
 6. Responsabilidades del grupo:
 * Seleccionar las tecnologías que van a ocupar.
+* Repartir de forma equitativa las actividades del proyecto.
 * Definir la función innovadora del proyecto.
 * Definir la Introducción, Objetivos y Conclusiones.
 * Designar un ecargado de capturar la Introduccion, Objetivos y Conclusiones.
+7. Método para la gestión del flujo de trabajo empleando "KANBAN":
+* ToDo - Tarea pendiente de realizarse.
+* Doing - Tarea que se esta realizando.
+* Done - Tarea terminada completamente.
