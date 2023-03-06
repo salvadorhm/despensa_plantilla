@@ -2,7 +2,7 @@
 
 ## 0. Versión
 
-Plantalla inicial versión 0.3.06032023
+Plantalla inicial versión 0.5.06032023
 
 ## 1. Introducción
 
@@ -62,6 +62,12 @@ Describir las herramientas de desarrollo utilizadas para el desarrollo del proye
 |36|Llamar al método valorMaximoProducto()|ToDo|NA|NA|NA|NA|
 |37|Completar el método menu() con los submenus necesarios|ToDo|NA|NA|NA|NA|
 |38|FUNCIÓN INNOVADORA PROPUESTA POR EL EQUIPO|ToDo|NA|NA|Grupal|NA|
+|39|Capturar la Introducción|ToDo|NA|NA|NA|NA|
+|40|Capturar los Objetivos|ToDo|NA|NA|NA|NA|
+|41|Capturar los Integrantes|ToDo|NA|NA|NA|NA|
+|42|Capturar las Herramientas de desarrollo|ToDo|NA|NA|NA|NA|
+|43|Capturar las Conclusiones|ToDo|NA|NA|NA|NA|
+|44|Capturar la Bibliografía|ToDo|NA|NA|NA|NA|
 
 ## 6. Conclusiones:
 
@@ -82,8 +88,17 @@ Agregar las referencias bibliográficas utilizadas
 3. Las evaluaciones las realizará un solo integrante del equipo seleccionado al azar.
 4. La útlima función del sistema será propuesta y desarrollada por el equipo, por ejemplo:
 * La tienda más cercana a mi ubicación.
-* La tienda en donde esta más baráto un producto.
-* La tienda en donde está más baráta la despensa completa.
+* La tienda en donde está más barato un producto.
+* La tienda en donde está más barata la despensa completa.
 * Análisis de Series de tiempo.
 * Predicción del costo de un producto determinado.
 * Etc.
+5. El responsable de cada actividad tiene las siguientes tareas:
+* Programar el algoritmo correspondiente.
+* Documentar su código.
+* Validar que su código funcione correctamente.
+6. Responsabilidades del grupo:
+* Seleccionar las tecnologías que van a ocupar.
+* Definir la función innovadora del proyecto.
+* Definir la Introducción, Objetivos y Conclusiones.
+* Designar un ecargado de capturar la Introduccion, Objetivos y Conclusiones.
