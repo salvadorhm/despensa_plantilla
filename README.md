@@ -1,8 +1,8 @@
-# Proyecto para llevar el control de la compra de despensa y variacion de precios.
+# Proyecto para llevar el control de la compra de despensa y variación de precios.
 
 ## 0. Versión
 
-Plantalla inicial versión 0.2.06032023
+Plantalla inicial versión 0.3.06032023
 
 ## 1. Introducción
 
@@ -14,7 +14,7 @@ Redactar los objetivos del proyecto.
 
 ## 3. Integrantes
 
-Listas las matriculas y nombres de los integrantes del equipo.
+Lista con las matriculas y nombres de los integrantes del equipo.
 
 ## 4. Herramientas de Desarrollo
 
@@ -79,7 +79,7 @@ Agregar las referencias bibliográficas utilizadas
 0. Realizar un fork al repositorio, crear un nuevo repositorio con los integrantes del equipo.
 1. Las funciones deben ser asignadas entre los integrantes del equipo (Solamente se pueden asignar un máximo de 5 actividades grupales)
 2. Todo el código debe estar documentado para ser considerado.
-3. Las evaluaciones las realizara un solo integrante del equipo seleccionado al azar.
+3. Las evaluaciones las realizará un solo integrante del equipo seleccionado al azar.
 4. La útlima función del sistema será propuesta y desarrollada por el equipo, por ejemplo:
 * La tienda más cercana a mi ubicación.
 * La tienda en donde esta más baráto un producto.

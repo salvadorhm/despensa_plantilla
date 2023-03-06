@@ -2,6 +2,7 @@ import csv  # Librería para abrir, leer y escribir archivos CSV
 
 
 class Despensa:  # Clase Despensa
+
     def __init__(self): # Constructor de la clase
         pass # Inicializa el objeto
 

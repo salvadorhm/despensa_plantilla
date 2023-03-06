@@ -2,6 +2,7 @@ import csv  # Librería para abrir, leer y escribir archivos CSV
 
 
 class Tiendas:  # Clase Tiendas
+
     def __init__(self):  # Construcctor de la clase Tiendas
         pass  # Inicializa el objeto Tiendas
 

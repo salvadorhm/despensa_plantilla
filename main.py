@@ -38,6 +38,6 @@ class Main(): # Clase principal
             # TODO rediseñar el menu para agregar los submenus necesarios
 
 
-if __name__ == "__main__":
+if __name__ == "__main__": # Define el modulo principal
     principal = Main() # Crea un objeto de la clase Main
     principal.menu() # Llama al metodo menu a traves del objeto principal

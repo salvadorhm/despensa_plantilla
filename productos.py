@@ -2,6 +2,7 @@ import csv  # Librería para abrir, leer y escribir archivos CSV
 
 
 class Productos:  # Clase Productos
+
     def __init__(self): # Constructor de la clase Productos
         pass # Inicializa el objeto de la clase Productos
 
@@ -13,7 +14,7 @@ class Productos:  # Clase Productos
                     print(row) # imprime los datos del registro como un diccionario
             return True # Regresa True si el metodo se ejecuto correctamente
         except Exception as e: # Atrapa cualquier excepcion
-            print(f"Error listarProdcutos() :{e.args}") # Muestra en consola el error que ocurrio
+            print(f"Error listarProductos() :{e.args}") # Muestra en consola el error que ocurrio
             return False # Regresa False si ocurrio un error en el metodo
 
     def insertarProducto(self, sku: str, nombre: str, unidad: str) -> bool: # Metodo para insertar un producto
@@ -32,5 +33,5 @@ class Productos:  # Clase Productos
         # TODO programar el método actualizarProducto()
         return False # Regresa False si ocurrio un error en el metodo
 
-productos = Productos()
-productos.listarProductos()
+productos = Productos() # Crea un objeto de la clase Productos
+productos.listarProductos() # Llama al metodo listarProductos()
