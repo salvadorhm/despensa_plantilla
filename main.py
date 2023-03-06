@@ -10,7 +10,7 @@ class Main(): # Clase principal
     def menu(self): # Metodo que muestra el menu del sistema
         productos = Productos() # Crea un objeto de la clase Prodcutos
         while True: # Bucle infinito para mostrar las opciones del sistema
-            print("0.- Listar Productos") # Opcion para listar los prodcutos
+            print("0.- Listar productos") # Opcion para listar los prodcutos
             print("1.- Insertar producto") # Opcion para insertar un nuevo producto
             print("2.- Buscar producto por SKU") # Opcion para buscar productos por SKU
             print("3.- Actualizar producto") # Opcion para actualizar un producto

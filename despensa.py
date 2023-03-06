@@ -7,7 +7,8 @@ class Despensa:  # Clase Despensa
 
     def listarDespensa(self, fecha: str) -> bool: # Metodo para listarDespensa()
         # TODO programar el método listarDespensa()
-        # mostrar los registros por la fecha indicada
+        # mostrar los registros por la fecha indicada con los siguientes datos:
+        # sku, nombre del producto, nombre de la tienda
         return False # Regresa False si ocurrio un error en el metodo # Regresa False si ocurrio un error en el metodo
 
     def insertarDespensa(self) -> bool: # Metodo para insertarDespesa()
