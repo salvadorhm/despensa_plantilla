@@ -2,7 +2,7 @@
 
 ## 0. Versión de la plantilla
 
-Plantilla inicial versión 0.06032023.7
+Plantilla inicial versión 0.06032023.8
 
 ## 1. Introducción
 
@@ -68,19 +68,27 @@ Describir las herramientas de desarrollo utilizadas para el desarrollo del proye
 |42|Capturar las Herramientas de desarrollo|ToDo|NA|NA|NA|NA|
 |43|Capturar las Conclusiones|ToDo|NA|NA|NA|NA|
 |44|Capturar la Bibliografía|ToDo|NA|NA|NA|NA|
+|45|Tabla de problemas y soluciones|ToDo|NA|NA|NA|NA|
 
-## 6. Conclusiones:
+## 6. Tabla de problemas y soluciones
+
+|No|Identificación del problema|Causa|Alternativas de solución|Toma de decisión con argumento|
+|--|--|--|--|--|
+|1|Problema 1|Causa 1|Alternativa 1|Decisión 1|
+
+
+## 7. Conclusiones:
 
 Redactar las conclusiones del proyecto
 
-## 7. Bibliografía
+## 8. Bibliografía
 
 1. [Python Documentation - CSV File Reading and Writing](https://docs.python.org/3/library/csv.html)
 2. [Open Route Service](https://openrouteservice.org)
 
 Agregar las referencias bibliográficas utilizadas
 
-## 8. Notas:
+## 9. Reglas:
 
 0. Realizar un fork al repositorio, crear un nuevo repositorio con los integrantes del equipo.
 1. Las funciones deben ser asignadas entre los integrantes del equipo (Solamente se pueden asignar un máximo de 5 actividades grupales)
@@ -103,6 +111,8 @@ Agregar las referencias bibliográficas utilizadas
 * Definir la función innovadora del proyecto.
 * Definir la Introducción, Objetivos y Conclusiones.
 * Designar un ecargado de capturar la Introduccion, Objetivos y Conclusiones.
+* Identificar los problemas y soluciones durante el desarrollo del proyecto, para realizar las mejoras oportunas.
+* Designar un encargado de capturar la tabla de problemas y soluciones.
 7. Método para la gestión del flujo de trabajo empleando "KANBAN":
 * ToDo - Tarea pendiente de realizarse.
 * Doing - Tarea que se esta realizando.
