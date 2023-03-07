@@ -2,7 +2,7 @@
 
 ## 0. Versión de la plantilla
 
-Plantilla inicial versión 0.06032023.8
+Plantilla inicial versión 0.07032023.1
 
 ## 1. Introducción
 
@@ -86,7 +86,7 @@ Redactar las conclusiones del proyecto
 1. [Python Documentation - CSV File Reading and Writing](https://docs.python.org/3/library/csv.html)
 2. [Open Route Service](https://openrouteservice.org)
 
-Agregar las referencias bibliográficas utilizadas
+Agregar las referencias bibliográficas utilizadas en formato APA
 
 ## 9. Reglas:
 
