@@ -1,5 +1,5 @@
-from productos import Productos # Importa el modulo Productos
 from tiendas import Tiendas # Importa el modulo Tiendas
+from productos.listar_productos import ListarProductos # Importa el modulo ListarProductos
 #TODO importar Despensa
 
 class Main(): # Clase principal
@@ -8,7 +8,8 @@ class Main(): # Clase principal
         pass # inicializa el objeto Main
 
     def menu(self): # Metodo que muestra el menu del sistema
-        productos = Productos() # Crea un objeto de la clase Prodcutos
+        # Objetos de cada clase
+        listarP = ListarProductos() # Objeto de la clase ListarProductos
         while True: # Bucle infinito para mostrar las opciones del sistema
             print("0.- Listar productos") # Opcion para listar los prodcutos
             print("1.- Insertar producto") # Opcion para insertar un nuevo producto
@@ -18,7 +19,7 @@ class Main(): # Clase principal
             print("s.- Salir") # Opcion para salir del sistema
             opcion = input("Seleccione una opcion: ") # Solicita al usuario que seleccione una opcion del menu
             if opcion == "0": # Valida si la opcion elegida es el 0
-                productos.listarProductos() # Llama al metodo listarProductos a traves del objeto productos
+                listarP.listarProductos() # Llama al metodo listarProductos a traves del objeto listarP
             elif opcion == "1": # Valida si la opcion elegida es el 1
                 # TODO Llamar al metodo insertarProducto()
                 print("Llamar metodo insertarProducto()")
