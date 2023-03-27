@@ -1,11 +1,11 @@
 import csv  # Librería para abrir, leer y escribir archivos CSV
 
-class ListarProductos:
+class ListarProducto:
 
     def __init__(self) -> None:
         pass
 
-    def listarProductos(self):
+    def listarProducto(self):
         try: # Prueba el codigo y si ocurre una Excepcion la atrapa
             with open("data/productos.csv", "r") as file: # Abre el archivo para tener acceso a los registros
                 reader = csv.DictReader(file, delimiter=",") # Crer un objeto reader para leer los registros separandolos por el delimitador ,
