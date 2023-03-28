@@ -2,7 +2,7 @@
 
 ## 0. Versión de la plantilla
 
-Plantilla inicial versión 0.07032023.1
+Plantilla del proyecto versión 0.28042023.1
 
 ## 1. Introducción
 
